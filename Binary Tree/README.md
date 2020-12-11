@@ -1,4 +1,4 @@
-# 3-Steps Method for Binary Tree
+# 3-Steps Method for Binary Tree (Recursion)
 Step 1: clarify what you want from your children
 
 Step 2: clarify what you want to do with the results returned from your children
